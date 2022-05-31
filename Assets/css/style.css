@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+    background-image: url("/Assets/img/logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+.card {
+    border: 0em;
+}
+
+.card-body {
+    text-align: center;
+}
+
